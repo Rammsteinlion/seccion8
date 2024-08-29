@@ -1,0 +1,20 @@
+Temas puntuales de la sección
+En esta sección veremos sobre:
+
+https://pokeapi.co/
+
+Diseño condicional
+
+Emit
+
+Props
+
+Tailwind
+
+Composables
+
+Enumeraciones
+
+Interfaces
+
+Realizaremos un pequeño juego donde nos enfocaremos en poner en práctica todo lo aprendido hasta el momento.
