@@ -1,5 +1,11 @@
 
 <script setup lang="ts">
+// import {onMounted} from 'vue';
+// import {type Pokemon } from "@/modules/pokemon/interfaces"
+// const props = defineProps<{
+//     data: Pokemon[]
+// }>()
+
 </script>
 
 <template>
